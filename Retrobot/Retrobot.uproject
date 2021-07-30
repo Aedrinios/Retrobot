@@ -19,5 +19,9 @@
 			"Name": "SteamController",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor",
+		"WindowsNoEditorWin32"
 	]
 }
